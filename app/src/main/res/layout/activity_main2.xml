@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/edtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nom de l'étudiant"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edtJava"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Note JAVA"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/edtIOS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Note IOS"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/edtAndroid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Note Android"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/btnAddStudent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ajouter Étudiant" />
+
+</LinearLayout>

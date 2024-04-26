@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759715672397",
+    "project_id": "glsie-617db",
+    "storage_bucket": "glsie-617db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759715672397:android:968b295d5dbc09fab4c704",
+        "android_client_info": {
+          "package_name": "com.example.tp5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvdQcc65DIwBw9PBMDrhwaYdD4ChUltT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
